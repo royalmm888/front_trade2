@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f1db94b.css",
-    "main.js": "/static/js/main.e00d5d56.js",
+    "main.css": "/static/css/main.900feebd.css",
+    "main.js": "/static/js/main.18918093.js",
     "static/js/453.eeefa729.chunk.js": "/static/js/453.eeefa729.chunk.js",
     "static/media/trade_2.png": "/static/media/trade_2.360a903df3222fb89a79.png",
     "static/media/phone_trade.webp": "/static/media/phone_trade.2bb48f8fbc32ef531a99.webp",
@@ -10,12 +10,12 @@
     "static/media/trade_bg.png": "/static/media/trade_bg.281242d1ea90c16f2eaf.png",
     "static/media/trade_test2.webp": "/static/media/trade_test2.411e3003d502eb572b92.webp",
     "static/media/login_bg.webp": "/static/media/login_bg.3b18bf4809310cea6e9c.webp",
-    "static/media/icon_512x512_backup.png": "/static/media/icon_512x512_backup.118f61bc1d44ced70bd5.png",
     "static/media/graph_3d.png": "/static/media/graph_3d.e8984b5e7c4014ad975e.png",
     "static/media/bg2.jpg": "/static/media/bg2.431e8c33e63f75e4d104.jpg",
     "static/media/en_icon.png": "/static/media/en_icon.4885b0afa96467c2fa47.png",
     "static/media/card-bg11.webp": "/static/media/card-bg11.bdf8cd83673f98ab3f2b.webp",
     "static/media/gsb.svg": "/static/media/gsb.ae249f1090340b6dc78a.svg",
+    "static/media/niza_logo2.png": "/static/media/niza_logo2.0bd7b8e138022a124cf2.png",
     "static/media/tradeN_1.png": "/static/media/tradeN_1.6f580bf2007521152356.png",
     "static/media/Bitcoin-SV-logo-white.png": "/static/media/Bitcoin-SV-logo-white.d2a233acf8976b194037.png",
     "static/media/borker3.svg": "/static/media/borker3.265d7d3d812bce04d8f9a6ebb10390b6.svg",
@@ -82,12 +82,12 @@
     "static/media/smbc.svg": "/static/media/smbc.642bf6f52e02e0d0001a.svg",
     "static/media/cimb.svg": "/static/media/cimb.fe43a63e4452250e9d65.svg",
     "static/media/db.svg": "/static/media/db.8a5842f91ac43340421d.svg",
-    "main.0f1db94b.css.map": "/static/css/main.0f1db94b.css.map",
-    "main.e00d5d56.js.map": "/static/js/main.e00d5d56.js.map",
+    "main.900feebd.css.map": "/static/css/main.900feebd.css.map",
+    "main.18918093.js.map": "/static/js/main.18918093.js.map",
     "453.eeefa729.chunk.js.map": "/static/js/453.eeefa729.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f1db94b.css",
-    "static/js/main.e00d5d56.js"
+    "static/css/main.900feebd.css",
+    "static/js/main.18918093.js"
   ]
 }
