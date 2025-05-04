@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.900feebd.css",
-    "main.js": "/static/js/main.734eaad8.js",
+    "main.js": "/static/js/main.fcb0efa2.js",
     "static/js/453.eeefa729.chunk.js": "/static/js/453.eeefa729.chunk.js",
     "static/media/trade_2.png": "/static/media/trade_2.360a903df3222fb89a79.png",
     "static/media/phone_trade.webp": "/static/media/phone_trade.2bb48f8fbc32ef531a99.webp",
@@ -15,12 +15,12 @@
     "static/media/en_icon.png": "/static/media/en_icon.4885b0afa96467c2fa47.png",
     "static/media/card-bg11.webp": "/static/media/card-bg11.bdf8cd83673f98ab3f2b.webp",
     "static/media/gsb.svg": "/static/media/gsb.ae249f1090340b6dc78a.svg",
-    "static/media/niza_logo2.png": "/static/media/niza_logo2.0bd7b8e138022a124cf2.png",
     "static/media/tradeN_1.png": "/static/media/tradeN_1.6f580bf2007521152356.png",
     "static/media/Bitcoin-SV-logo-white.png": "/static/media/Bitcoin-SV-logo-white.d2a233acf8976b194037.png",
     "static/media/borker3.svg": "/static/media/borker3.265d7d3d812bce04d8f9a6ebb10390b6.svg",
     "static/media/icon_android_ios.png": "/static/media/icon_android_ios.a9983086ea8540f21950.png",
     "static/media/bg_login2.jpg": "/static/media/bg_login2.c99224f96e703c33c8f9.jpg",
+    "static/media/icon_512x512_backup.png": "/static/media/icon_512x512_backup.3c0e96385f3419053cc9.png",
     "static/media/trade_overlay.svg": "/static/media/trade_overlay.2c0e0c74c0b00a2ceb7813038ffd9dbb.svg",
     "static/media/bg_white_tech.jpg": "/static/media/bg_white_tech.3a1cfd3c53bd664d6e32.jpg",
     "static/media/bg-trade2.jpg": "/static/media/bg-trade2.01a20aed18335455fa1f.jpg",
@@ -83,11 +83,11 @@
     "static/media/cimb.svg": "/static/media/cimb.fe43a63e4452250e9d65.svg",
     "static/media/db.svg": "/static/media/db.8a5842f91ac43340421d.svg",
     "main.900feebd.css.map": "/static/css/main.900feebd.css.map",
-    "main.734eaad8.js.map": "/static/js/main.734eaad8.js.map",
+    "main.fcb0efa2.js.map": "/static/js/main.fcb0efa2.js.map",
     "453.eeefa729.chunk.js.map": "/static/js/453.eeefa729.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.900feebd.css",
-    "static/js/main.734eaad8.js"
+    "static/js/main.fcb0efa2.js"
   ]
 }
