@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.69f01fdd.css",
-    "main.js": "/static/js/main.19075ea3.js",
+    "main.js": "/static/js/main.b9f956ad.js",
     "static/js/453.eeefa729.chunk.js": "/static/js/453.eeefa729.chunk.js",
     "static/media/trade_2.png": "/static/media/trade_2.360a903df3222fb89a79.png",
     "static/media/phone_trade.webp": "/static/media/phone_trade.2bb48f8fbc32ef531a99.webp",
@@ -10,6 +10,7 @@
     "static/media/trade_bg.png": "/static/media/trade_bg.281242d1ea90c16f2eaf.png",
     "static/media/trade_test2.webp": "/static/media/trade_test2.411e3003d502eb572b92.webp",
     "static/media/login_bg.webp": "/static/media/login_bg.3b18bf4809310cea6e9c.webp",
+    "static/media/icon_512x512_backup.png": "/static/media/icon_512x512_backup.f49086cc8755e8ad3476.png",
     "static/media/graph_3d.png": "/static/media/graph_3d.e8984b5e7c4014ad975e.png",
     "static/media/bg2.jpg": "/static/media/bg2.431e8c33e63f75e4d104.jpg",
     "static/media/en_icon.png": "/static/media/en_icon.4885b0afa96467c2fa47.png",
@@ -20,7 +21,6 @@
     "static/media/borker3.svg": "/static/media/borker3.265d7d3d812bce04d8f9a6ebb10390b6.svg",
     "static/media/icon_android_ios.png": "/static/media/icon_android_ios.a9983086ea8540f21950.png",
     "static/media/bg_login2.jpg": "/static/media/bg_login2.c99224f96e703c33c8f9.jpg",
-    "static/media/icon_512x512_backup.png": "/static/media/icon_512x512_backup.3c0e96385f3419053cc9.png",
     "static/media/trade_overlay.svg": "/static/media/trade_overlay.2c0e0c74c0b00a2ceb7813038ffd9dbb.svg",
     "static/media/bg_white_tech.jpg": "/static/media/bg_white_tech.3a1cfd3c53bd664d6e32.jpg",
     "static/media/bg-trade2.jpg": "/static/media/bg-trade2.01a20aed18335455fa1f.jpg",
@@ -75,19 +75,19 @@
     "static/media/pp.svg": "/static/media/pp.01010f5b8929d235bfa1.svg",
     "static/media/uob.svg": "/static/media/uob.0a8a97d054c304090c3a.svg",
     "static/media/mufg.svg": "/static/media/mufg.13dbf3a1636dd8d5f620.svg",
-    "index.html": "/index.html",
     "static/media/hsbc.svg": "/static/media/hsbc.36b5c5e0cace8398a74d.svg",
     "static/media/jpm.svg": "/static/media/jpm.1f759223a42b4da4144a.svg",
     "static/media/lhb.svg": "/static/media/lhb.3132b5ccdd6e3ae827e2.svg",
+    "index.html": "/index.html",
     "static/media/smbc.svg": "/static/media/smbc.642bf6f52e02e0d0001a.svg",
     "static/media/cimb.svg": "/static/media/cimb.fe43a63e4452250e9d65.svg",
     "static/media/db.svg": "/static/media/db.8a5842f91ac43340421d.svg",
     "main.69f01fdd.css.map": "/static/css/main.69f01fdd.css.map",
-    "main.19075ea3.js.map": "/static/js/main.19075ea3.js.map",
+    "main.b9f956ad.js.map": "/static/js/main.b9f956ad.js.map",
     "453.eeefa729.chunk.js.map": "/static/js/453.eeefa729.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69f01fdd.css",
-    "static/js/main.19075ea3.js"
+    "static/js/main.b9f956ad.js"
   ]
 }
