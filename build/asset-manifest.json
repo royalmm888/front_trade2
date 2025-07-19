@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.69f01fdd.css",
-    "main.js": "/static/js/main.f330c4e6.js",
+    "main.css": "/static/css/main.f1799f4d.css",
+    "main.js": "/static/js/main.34b26815.js",
     "static/js/453.eeefa729.chunk.js": "/static/js/453.eeefa729.chunk.js",
     "static/media/trade_2.png": "/static/media/trade_2.360a903df3222fb89a79.png",
     "static/media/phone_trade.webp": "/static/media/phone_trade.2bb48f8fbc32ef531a99.webp",
@@ -11,21 +11,25 @@
     "static/media/trade_test2.webp": "/static/media/trade_test2.411e3003d502eb572b92.webp",
     "static/media/login_bg.webp": "/static/media/login_bg.3b18bf4809310cea6e9c.webp",
     "static/media/icon_512x512_backup.png": "/static/media/icon_512x512_backup.f49086cc8755e8ad3476.png",
-    "static/media/graph_3d.png": "/static/media/graph_3d.e8984b5e7c4014ad975e.png",
+    "static/media/phone_trade 2.webp": "/static/media/phone_trade 2.71a3dd8f7b11dbe3b9a6.webp",
     "static/media/bg2.jpg": "/static/media/bg2.431e8c33e63f75e4d104.jpg",
     "static/media/en_icon.png": "/static/media/en_icon.4885b0afa96467c2fa47.png",
     "static/media/card-bg11.webp": "/static/media/card-bg11.bdf8cd83673f98ab3f2b.webp",
     "static/media/gsb.svg": "/static/media/gsb.ae249f1090340b6dc78a.svg",
+    "static/media/in flat_6847815.png": "/static/media/in flat_6847815.f35101e13738e3aa3cd5.png",
     "static/media/tradeN_1.png": "/static/media/tradeN_1.6f580bf2007521152356.png",
     "static/media/Bitcoin-SV-logo-white.png": "/static/media/Bitcoin-SV-logo-white.d2a233acf8976b194037.png",
     "static/media/borker3.svg": "/static/media/borker3.265d7d3d812bce04d8f9a6ebb10390b6.svg",
     "static/media/icon_android_ios.png": "/static/media/icon_android_ios.a9983086ea8540f21950.png",
+    "static/media/in2.png": "/static/media/in2.2c4809a74169150c6d88.png",
     "static/media/bg_login2.jpg": "/static/media/bg_login2.c99224f96e703c33c8f9.jpg",
     "static/media/trade_overlay.svg": "/static/media/trade_overlay.2c0e0c74c0b00a2ceb7813038ffd9dbb.svg",
     "static/media/bg_white_tech.jpg": "/static/media/bg_white_tech.3a1cfd3c53bd664d6e32.jpg",
     "static/media/bg-trade2.jpg": "/static/media/bg-trade2.01a20aed18335455fa1f.jpg",
     "static/media/website.png": "/static/media/website.42d3a8dfacb2d71d5732.png",
+    "static/media/in4.png": "/static/media/in4.d4ab494eb3c650b5b768.png",
     "static/media/trade_com.webp": "/static/media/trade_com.6a0aeff73b300b1a2c55.webp",
+    "static/media/in3.png": "/static/media/in3.9aa90fd17fd84f078cad.png",
     "static/media/bitcoin_btc_logo.png": "/static/media/bitcoin_btc_logo.2b754dd020d4a50e3999.png",
     "static/media/gmail_ic.png": "/static/media/gmail_ic.8d55216f1780ecfa4edc.png",
     "static/media/website-icon-11.png": "/static/media/website-icon-11.31d1c250918c40c681d1.png",
@@ -82,12 +86,12 @@
     "static/media/smbc.svg": "/static/media/smbc.642bf6f52e02e0d0001a.svg",
     "static/media/cimb.svg": "/static/media/cimb.fe43a63e4452250e9d65.svg",
     "static/media/db.svg": "/static/media/db.8a5842f91ac43340421d.svg",
-    "main.69f01fdd.css.map": "/static/css/main.69f01fdd.css.map",
-    "main.f330c4e6.js.map": "/static/js/main.f330c4e6.js.map",
+    "main.f1799f4d.css.map": "/static/css/main.f1799f4d.css.map",
+    "main.34b26815.js.map": "/static/js/main.34b26815.js.map",
     "453.eeefa729.chunk.js.map": "/static/js/453.eeefa729.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69f01fdd.css",
-    "static/js/main.f330c4e6.js"
+    "static/css/main.f1799f4d.css",
+    "static/js/main.34b26815.js"
   ]
 }
