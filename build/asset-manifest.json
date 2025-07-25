@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f1799f4d.css",
-    "main.js": "/static/js/main.34b26815.js",
+    "main.js": "/static/js/main.e62796b3.js",
     "static/js/453.eeefa729.chunk.js": "/static/js/453.eeefa729.chunk.js",
     "static/media/trade_2.png": "/static/media/trade_2.360a903df3222fb89a79.png",
     "static/media/phone_trade.webp": "/static/media/phone_trade.2bb48f8fbc32ef531a99.webp",
@@ -87,11 +87,11 @@
     "static/media/cimb.svg": "/static/media/cimb.fe43a63e4452250e9d65.svg",
     "static/media/db.svg": "/static/media/db.8a5842f91ac43340421d.svg",
     "main.f1799f4d.css.map": "/static/css/main.f1799f4d.css.map",
-    "main.34b26815.js.map": "/static/js/main.34b26815.js.map",
+    "main.e62796b3.js.map": "/static/js/main.e62796b3.js.map",
     "453.eeefa729.chunk.js.map": "/static/js/453.eeefa729.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1799f4d.css",
-    "static/js/main.34b26815.js"
+    "static/js/main.e62796b3.js"
   ]
 }
