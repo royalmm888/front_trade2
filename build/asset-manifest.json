@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.a21415e1.css",
-    "main.js": "/static/js/main.40d56dd6.js",
+    "main.js": "/static/js/main.fa479c37.js",
     "static/js/453.eeefa729.chunk.js": "/static/js/453.eeefa729.chunk.js",
     "static/media/caru6.gif": "/static/media/caru6.193f0fb0c8447ee6bed7.gif",
     "static/media/caru4.gif": "/static/media/caru4.c9cf97146779c17d6634.gif",
+    "static/media/trade-dark-ezgif.gif": "/static/media/trade-dark-ezgif.efbced7bcb185b98338a.gif",
     "static/media/caru2.gif": "/static/media/caru2.b49ce70c1eb50921ddd7.gif",
     "static/media/trade_2.png": "/static/media/trade_2.360a903df3222fb89a79.png",
     "static/media/phone_trade.webp": "/static/media/phone_trade.2bb48f8fbc32ef531a99.webp",
@@ -94,11 +95,11 @@
     "static/media/cimb.svg": "/static/media/cimb.fe43a63e4452250e9d65.svg",
     "static/media/db.svg": "/static/media/db.8a5842f91ac43340421d.svg",
     "main.a21415e1.css.map": "/static/css/main.a21415e1.css.map",
-    "main.40d56dd6.js.map": "/static/js/main.40d56dd6.js.map",
+    "main.fa479c37.js.map": "/static/js/main.fa479c37.js.map",
     "453.eeefa729.chunk.js.map": "/static/js/453.eeefa729.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a21415e1.css",
-    "static/js/main.40d56dd6.js"
+    "static/js/main.fa479c37.js"
   ]
 }
