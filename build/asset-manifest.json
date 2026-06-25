@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.79bf661f.css",
-    "main.js": "/static/js/main.db26af34.js",
+    "main.js": "/static/js/main.29c55f6d.js",
     "static/js/453.eeefa729.chunk.js": "/static/js/453.eeefa729.chunk.js",
     "static/media/caru6.gif": "/static/media/caru6.193f0fb0c8447ee6bed7.gif",
     "static/media/caru4.gif": "/static/media/caru4.c9cf97146779c17d6634.gif",
@@ -11,7 +11,7 @@
     "static/media/bg2.jpg": "/static/media/bg2.431e8c33e63f75e4d104.jpg",
     "static/media/en_icon.png": "/static/media/en_icon.4885b0afa96467c2fa47.png",
     "static/media/trade_ic2.png": "/static/media/trade_ic2.68876c4015a4360ed5b4.png",
-    "static/media/cerficate_image.jpg": "/static/media/cerficate_image.f23bd19bb9f8f2943f16.jpg",
+    "static/media/cerficate_image.jpg": "/static/media/cerficate_image.d96ecebea82735adad1b.jpg",
     "static/media/gsb.svg": "/static/media/gsb.ae249f1090340b6dc78a.svg",
     "static/media/deposit-eefb9b0d.png": "/static/media/deposit-eefb9b0d.55d7af87334fa8ec343f.png",
     "static/media/Bitcoin-SV-logo-white.png": "/static/media/Bitcoin-SV-logo-white.d2a233acf8976b194037.png",
@@ -75,11 +75,11 @@
     "static/media/cimb.svg": "/static/media/cimb.fe43a63e4452250e9d65.svg",
     "static/media/db.svg": "/static/media/db.8a5842f91ac43340421d.svg",
     "main.79bf661f.css.map": "/static/css/main.79bf661f.css.map",
-    "main.db26af34.js.map": "/static/js/main.db26af34.js.map",
+    "main.29c55f6d.js.map": "/static/js/main.29c55f6d.js.map",
     "453.eeefa729.chunk.js.map": "/static/js/453.eeefa729.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79bf661f.css",
-    "static/js/main.db26af34.js"
+    "static/js/main.29c55f6d.js"
   ]
 }
